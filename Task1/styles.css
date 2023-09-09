@@ -1,0 +1,49 @@
+.stretch
+{
+    width:fit-content;
+    margin-bottom: 0;
+}
+
+.hrr
+{
+    margin-top: 10px;
+}
+
+
+body
+{
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+}
+
+
+
+
+.but
+{
+    background-color: #9D44C0;
+    color:#fff;
+    border:black solid 0.5px;
+}
+
+.but:hover
+{
+    background-image: radial-gradient(circle farthest-side, #fceabb, #f8b500);
+}
+
+.sign
+{
+    background-color: #9D44C0;
+    color:#fff;
+    border:black solid 0.5px;
+}
+
+.sign:hover
+{
+    background-image: radial-gradient(circle farthest-side, #fceabb, #f8b500);
+}
+
+.navbar
+{
+    color:#fff;
+    font-size: larger;
+}
